@@ -689,8 +689,9 @@ footer p {
   font-size: 2rem;
   font-weight: 500;
   color: var(--gold2);
-  line-height: 1;
+  line-height: 1.15;
   letter-spacing: 0.02em;
+  text-align: center;
 }
 
 .env-disp-sep {

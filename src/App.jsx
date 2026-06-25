@@ -132,7 +132,7 @@ function App() {
                 {/* H */}
                 <text x="90" y="82" fontFamily="'Great Vibes', cursive" fontSize="44" fill="#8c6c35" textAnchor="middle" opacity="0.9">H</text>
                 {/* & */}
-                <text x="90" y="101" fontFamily="'Cinzel', serif" fontSize="12" fill="#af8f56" textAnchor="middle" letterSpacing="3" opacity="0.85">&amp;</text>
+                <text x="90" y="104" fontFamily="'Cormorant Garamond', serif" fontStyle="italic" fontSize="22" fill="#8c6c35" textAnchor="middle" opacity="1" fontWeight="600">&amp;</text>
                 {/* A — Cormorant Garamond italic for clear cursive capital */}
                 <text x="90" y="133" fontFamily="'Cormorant Garamond', serif" fontSize="50" fontStyle="italic" fontWeight="600" fill="#8c6c35" textAnchor="middle" opacity="0.9">A</text>
               </svg>
@@ -142,7 +142,7 @@ function App() {
           {/* Bottom info */}
           <div className="env-footer">
             <div className="env-names-display">
-              <span className="env-disp-name">Hafeesha K H</span>
+              <span className="env-disp-name">Hafeesha<br />K H</span>
               <span className="env-disp-sep">✦</span>
               <span className="env-disp-name">Afzal Abdul Azeez</span>
             </div>
